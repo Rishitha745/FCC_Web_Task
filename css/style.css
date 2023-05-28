@@ -1,0 +1,33 @@
+body{
+   background-color: blanchedalmond;
+}
+.title{
+    color: black;
+    text-align: center;
+}
+.first{
+    background-color:floralwhite;
+    min-height: 360px;
+}
+.fort{
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.2;
+    font-size: large;
+}
+.second{
+    background-color: floralwhite;
+    min-height: 255px;
+}
+.third{
+    background-color: floralwhite;
+    min-height: 325px;
+}
+.fourth{
+    background-color: floralwhite;
+    min-height: 265px;
+}
+.fifth{
+    background-color: floralwhite;
+    min-height: 300px;
+}
